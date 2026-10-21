@@ -1,23 +1,28 @@
-# Project GitHub — Contoh Reza
+# Bandar Lampung History
 
-Selamat datang di repository **Project GitHub**!
+Website sederhana yang memperkenalkan sejarah Kota Bandar Lampung, ibu kota Provinsi Lampung yang dikenal sebagai salah satu gerbang utama Pulau Sumatera.
 
-Repository ini merupakan project website sederhana yang dikembangkan sebagai latihan dan dokumentasi dalam mempelajari pengembangan web serta penggunaan Git dan GitHub.
+## 🌐 Live Demo
 
-## 🌐 Demo Website
+[**Lihat Website**](https://projectgithub-fawn.vercel.app/)
 
-Kunjungi website melalui tautan berikut:
+## ✨ Fitur Website
 
-**[Project GitHub — Live Demo](https://projectgithub-fawn.vercel.app/)**
+- **Home** — halaman pembuka bertema Sejarah Kota Bandar Lampung.
+- **History** — pengenalan singkat tentang Kota Bandar Lampung.
+- **Timeline** — linimasa sejarah yang ditampilkan pada halaman.
+- **Map** — peta Bandar Lampung yang disematkan dari Google Maps.
+- **Dark Mode** — tombol mode gelap yang tersedia pada navigasi.
 
-## 🛠️ Teknologi yang Digunakan
+## 🧰 Teknologi yang Digunakan
 
-- **HTML5** — menyusun struktur halaman website.
-- **CSS3** — mengatur tampilan dan desain website.
-- **JavaScript** — menambahkan interaktivitas pada halaman.
-- **Git** — mengelola perubahan kode.
-- **GitHub** — menyimpan dan mengelola repository.
-- **Vercel** — memublikasikan website secara online.
+- **HTML5** — struktur dan konten halaman.
+- **CSS3** — tampilan dan tata letak website.
+- **JavaScript** — interaktivitas halaman.
+- **Google Maps Embed** — menampilkan peta.
+- **Google Fonts (Poppins)** — font yang digunakan pada tampilan.
+- **Git dan GitHub** — version control dan penyimpanan repository.
+- **Vercel** — deployment website.
 
 ## 📁 Struktur Repository
 
@@ -29,36 +34,30 @@ project_github/
 └── README.md
 ```
 
-### Penjelasan File
-
 | File | Fungsi |
 |---|---|
-| `index.html` | Struktur utama halaman website. |
-| `style.css` | Pengaturan desain dan tampilan website. |
-| `scripts.js` | Kode JavaScript untuk interaktivitas. |
-| `README.md` | Dokumentasi project. |
+| `index.html` | Struktur dan konten utama website. |
+| `style.css` | Mengatur desain dan tata letak. |
+| `scripts.js` | File JavaScript project. |
+| `README.md` | Dokumentasi repository. |
 
-## 🚀 Cara Menjalankan Project
+## 🚀 Menjalankan Project Secara Lokal
 
-1. Clone repository ini ke komputer:
+1. Pastikan Git dan Visual Studio Code sudah terpasang.
+2. Clone repository:
 
    ```bash
    git clone https://github.com/rezajauhari555-code/project_github.git
    ```
 
-2. Masuk ke folder project:
+3. Masuk ke folder project:
 
    ```bash
    cd project_github
    ```
 
-3. Buka folder tersebut menggunakan Visual Studio Code.
-
-4. Jalankan `index.html` melalui browser atau gunakan ekstensi Live Server di Visual Studio Code.
-
-## 💻 Pengembangan
-
-Project ini dapat dikembangkan lebih lanjut dengan menambahkan fitur baru, meningkatkan desain responsif, serta memperbaiki pengalaman pengguna.
+4. Buka folder project di Visual Studio Code.
+5. Jalankan `index.html` di browser atau gunakan ekstensi Live Server.
 
 ## 👨‍💻 Author
 
@@ -66,8 +65,8 @@ Project ini dapat dikembangkan lebih lanjut dengan menambahkan fitur baru, menin
 
 - GitHub: [@rezajauhari555-code](https://github.com/rezajauhari555-code)
 - Repository: [project_github](https://github.com/rezajauhari555-code/project_github)
-- Live Website: [Project GitHub](https://projectgithub-fawn.vercel.app/)
+- Live Demo: [projectgithub-fawn.vercel.app](https://projectgithub-fawn.vercel.app/)
 
 ---
 
-*Dibuat sebagai bagian dari proses belajar pengembangan web dan pengelolaan project menggunakan Git dan GitHub.*
+*Project latihan pengembangan website menggunakan HTML, CSS, dan JavaScript.*
